@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RewardsPointsConsoleApp/1.0.0": {
+        "runtime": {
+          "RewardsPointsConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RewardsPointsConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

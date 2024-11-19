@@ -1,0 +1,16 @@
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\bin\Debug\net5.0\RewardsPointsConsoleApp.exe
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\bin\Debug\net5.0\RewardsPointsConsoleApp.deps.json
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\bin\Debug\net5.0\RewardsPointsConsoleApp.runtimeconfig.json
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\bin\Debug\net5.0\RewardsPointsConsoleApp.runtimeconfig.dev.json
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\bin\Debug\net5.0\RewardsPointsConsoleApp.dll
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\bin\Debug\net5.0\ref\RewardsPointsConsoleApp.dll
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\bin\Debug\net5.0\RewardsPointsConsoleApp.pdb
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\obj\Debug\net5.0\RewardsPointsConsoleApp.csproj.AssemblyReference.cache
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\obj\Debug\net5.0\RewardsPointsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\obj\Debug\net5.0\RewardsPointsConsoleApp.AssemblyInfoInputs.cache
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\obj\Debug\net5.0\RewardsPointsConsoleApp.AssemblyInfo.cs
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\obj\Debug\net5.0\RewardsPointsConsoleApp.csproj.CoreCompileInputs.cache
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\obj\Debug\net5.0\RewardsPointsConsoleApp.dll
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\obj\Debug\net5.0\ref\RewardsPointsConsoleApp.dll
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\obj\Debug\net5.0\RewardsPointsConsoleApp.pdb
+D:\RewardPoints\RewardsPointsCalculator\RewardsPointsConsoleApp\obj\Debug\net5.0\RewardsPointsConsoleApp.genruntimeconfig.cache
